@@ -8,7 +8,7 @@ Single-threaded
 ## Compiling
 
 ```bash
-cc list.c -lreadline -o list
+cc preview.c -lreadline -o preview
 ```
 
 ## Features
