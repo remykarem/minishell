@@ -1,5 +1,7 @@
 # minishell
 
+This is a simple shell with only 2 commands. I built this because a co-worker wanted to view a folder with 20+GB of files but couldn't do it with an `ls`. With this, I hope that we can casually explore a folder without slowing down the computer.
+
 ## Compiling
 
 ```bash
@@ -13,6 +15,8 @@ cc preview.c -lreadline -o preview.exe
 ```
 
 Path to directory must end with a forward slash.
+
+Hit enter to view 10 files of a folder at a time, or you enter a filename and view nbytes.
 
 ## Features
 
