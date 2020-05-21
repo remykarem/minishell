@@ -12,6 +12,8 @@ cc preview.c -lreadline -o preview.exe
 ./preview.exe /path/to/directory/
 ```
 
+Path to directory must end with a forward slash.
+
 ## Features
 
 * To be able to open the directory with negligible latency
