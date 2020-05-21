@@ -1,10 +1,5 @@
 # minishell
 
-System calls: open, read, close, opendir, closedir
-Library functions: string.h,
-
-Single-threaded
-
 ## Compiling
 
 ```bash
