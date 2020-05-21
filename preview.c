@@ -16,7 +16,6 @@
 void open_directory(char *filename_, int num_files)
 {
 	DIR *dir;
-	char c;
 	int nbytes;
 	int counter = 0;
 	int view_fd;
