@@ -8,13 +8,13 @@ Single-threaded
 ## Compiling
 
 ```bash
-cc preview.c -lreadline -o preview
+cc preview.c -lreadline -o preview.exe
 ```
 
 ## Usage
 
 ```bash
-./preview /path/to/directory/
+./preview.exe /path/to/directory/
 ```
 
 ## Features
