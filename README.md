@@ -5,7 +5,7 @@ This is a simple interactive shell with only 2 commands. I built this because a 
 ## Compiling
 
 ```bash
-cc preview.c -lreadline -o preview.exe
+make
 ```
 
 ## Usage
