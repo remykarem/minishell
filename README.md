@@ -21,9 +21,7 @@ Hit enter to view 10 files of a folder at a time, or you enter a filename and vi
 ## Features
 
 * To be able to open the directory with negligible latency
-* To be able to view a list of some files
-    * Cycle through files***
-    * Directories are in different colour
+* To be able to view a list of 10 files at a time
 * To be able to read some contents of a file at a time
 * Text-based files only (.txt, .csv, .log)
 
