@@ -20,6 +20,12 @@ Path to directory must end with a forward slash.
 
 Hit enter to view 10 files of a folder at a time, or you enter a filename and view nbytes.
 
+## Similar programs
+
+1. `ls`
+
+2. `python -c "import os; l = os.listdir('.'); print(l)"`
+
 ## Features
 
 * To be able to open the directory with negligible latency
