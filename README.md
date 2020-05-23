@@ -2,6 +2,8 @@
 
 This is a simple interactive shell with only 2 commands. I built this because a co-worker wanted to view a folder with 20+GB of files but couldn't do it with an `ls`. With this, I hope that we can casually explore a folder without slowing down the computer.
 
+![demo](demo.gif)
+
 ## Compiling
 
 ```bash
@@ -30,8 +32,6 @@ Hit enter to view 10 files of a folder at a time, or you enter a filename and vi
 * cd in this shell
 * less
 * To be able to copy files (?)
-
-
 
 ## Non-features
 
