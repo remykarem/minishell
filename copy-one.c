@@ -37,9 +37,8 @@ int main(int argc, char *argv[])
             printf("Error reading file %s.\n", argv[1]);
             exit(EXIT_FAILURE);
         }
-
-        // Finish reading; pointer has nothing else to read
-        if (nbytes == 0)
+        else if (nbytes == 0)
+            // Finish reading; pointer has nothing else to read
             break;
 
         nbytes = write(dst_fd, buffer, nbytes);
